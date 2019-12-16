@@ -1,4 +1,4 @@
-def tri_croissant(t):
+def my_sort(t):
     for j in range(1, len(t)):
         T = t[j]
         i = j - 1
