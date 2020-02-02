@@ -1,4 +1,4 @@
-def my_sort(t):
+def my_sort(t): #voir verification sur la capture d'écran
     for j in range(1, len(t)):
         T = t[j]
         i = j - 1
